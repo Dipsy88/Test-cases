@@ -3,11 +3,8 @@ Created on Feb 9, 2015
 
 @author: Dipesh
 '''
-import urllib2
-import telnetlib
 import time
 import paramiko
-from sys import stdin
 
 # Check if you can use video conferencing tool to call another video conferencing tool and then disconnect the call.
 
